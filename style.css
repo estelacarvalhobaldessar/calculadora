@@ -1,0 +1,24 @@
+.caixa{
+    width:400px;
+    height: 450px;
+    background-color: aqua;
+    border-radius: 20px;
+}
+#resposta{
+    background-color: aliceblue;
+    height: 75px;
+    width: 400px;
+    border-radius: 20px;
+    font-size: x-large;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+}
+.botao{
+    height: 80px;
+    width: 80px;
+    font-size:x-large;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 15px;
+    background-color: aliceblue
+}
